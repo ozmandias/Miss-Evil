@@ -1,0 +1,9 @@
+Gameplay Programming
+
+Mobile UI
+Main Menu Sounds
+Game Sounds
+
+Design
+
+Spider Projectile

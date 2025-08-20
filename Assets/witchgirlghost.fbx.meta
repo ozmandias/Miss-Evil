@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 9956ef4d65b9c1144ab5083bb7214109
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: fondo
+    100002: Icosphere
+    100004: madera
+    100006: monstruo
+    100008: objetos
+    100010: ojos
+    100012: oro
+    100014: piedra
+    100016: puerta
+    100018: suelo
+    100020: tejado
+    100022: vegetacion
+    100024: //RootNode
+    400000: fondo
+    400002: Icosphere
+    400004: madera
+    400006: monstruo
+    400008: objetos
+    400010: ojos
+    400012: oro
+    400014: piedra
+    400016: puerta
+    400018: suelo
+    400020: tejado
+    400022: vegetacion
+    400024: //RootNode
+    2100000: fondo
+    2100002: or
+    2100004: madera
+    2100006: objetos
+    2100008: piedra
+    2100010: gold
+    2100012: door
+    2100014: suelo
+    2100016: tejado
+    2100018: vegetacion
+    2300000: fondo
+    2300002: Icosphere
+    2300004: madera
+    2300006: objetos
+    2300008: oro
+    2300010: puerta
+    2300012: suelo
+    2300014: tejado
+    2300016: vegetacion
+    3300000: fondo
+    3300002: Icosphere
+    3300004: madera
+    3300006: objetos
+    3300008: oro
+    3300010: puerta
+    3300012: suelo
+    3300014: tejado
+    3300016: vegetacion
+    4300000: fondo
+    4300002: Icosphere
+    4300004: madera
+    4300006: monstruo
+    4300008: objetos
+    4300010: ojos
+    4300012: oro
+    4300014: piedra
+    4300016: puerta
+    4300018: suelo
+    4300020: tejado
+    4300022: vegetacion
+    9500000: //RootNode
+    13700000: monstruo
+    13700002: ojos
+    13700004: piedra
+    13700006: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objetos
+    second: {fileID: 2100000, guid: c06906dc3da780849a8d8d68f49fc8a3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
